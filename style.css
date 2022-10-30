@@ -1,0 +1,22 @@
+header {
+    color: #ffffff; 
+    font-size: large";
+}
+nav {
+    background-color: #23252a; 
+    font-family: Arial; 
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    width: 768px;
+    flex: 0 1 20ch
+}
+button {
+    color: #408559; 
+    background: none; 
+    outline-color: #408559"
+}
+button:hover {
+    background-color: green;
+    color: white;
+}
